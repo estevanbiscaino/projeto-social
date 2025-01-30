@@ -13,7 +13,8 @@ html, body {
 }
 
 body {
-    background: no-repeat center  url(../imagens/fundo-galaxia.jpg); background-size: 100%;
+    background: no-repeat center  url(../imagens/fundo-galaxia.jpg); background-size: cover;
+    background-attachment: fixed;
 }
 
 main {
